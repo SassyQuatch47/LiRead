@@ -1,0 +1,3 @@
+# All files listed here by name will not be visible to git
+# When commiting, list the files you DO NOT want to commit publically here
+# This helps keep personal workspaces seperate from your teammates
